@@ -1,4 +1,4 @@
-package com.example.myapplication.data
+package com.example.myapplication.ui.main
 
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.Row
